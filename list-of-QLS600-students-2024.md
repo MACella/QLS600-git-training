@@ -42,3 +42,8 @@ github handle: cmvcordova
 I am a student in QLS 2023 batch. I am currently doing my 2nd rotation with Prof. Daniel Gutton.
 email: ashim.pandey@mail.mcgill.ca
 github handle: ashimpandey
+
+# Monica Cella 
+I work on infectious bacteria and sequencing their antimicrobial resistance genes. 
+email: monica.cella@mail.mcgill.ca
+github handle: MACella
